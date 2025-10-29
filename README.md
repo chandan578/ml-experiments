@@ -1,0 +1,2 @@
+# ML Experiments End to End project created with MLflow
+This repository contains an end-to-end machine learning project that utilizes MLflow for experiment tracking, model management, and deployment. The project demonstrates best practices in building, training, and deploying machine learning models.
